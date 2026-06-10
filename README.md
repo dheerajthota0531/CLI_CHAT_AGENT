@@ -2,8 +2,6 @@
 
 A minimal CLI chat agent that streams responses from a local Ollama model (gemma3:12b).
 
-Built to learn how to make an LLM API call from Rust.
-
 ## How this was built (step by step)
 
 ### 1. Scaffold the project
